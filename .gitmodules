@@ -1,0 +1,6 @@
+[submodule "edb-unix"]
+	path = edb-unix
+	url = git@github.com:ExistOS-Team-Shadow/edb-unix.git
+[submodule "sys_signer"]
+	path = sys_signer
+	url = git@github.com:ExistOS-Team-Shadow/sys_signer.git
